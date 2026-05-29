@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvarse",
+        "uuid": 2533381,
+        "checksum": "qfe1bq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
